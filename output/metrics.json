@@ -1,0 +1,23 @@
+{
+  "HK": {
+    "n_test": 15,
+    "direction_accuracy": 0.7333333333333333,
+    "baseline_accuracy": 0.7333333333333333,
+    "price_mae": 7.683380243339359,
+    "naive_price_mae": 5.187999999999997
+  },
+  "KR": {
+    "n_test": 20,
+    "direction_accuracy": 0.3,
+    "baseline_accuracy": 0.6,
+    "price_mae": 26615.12218322926,
+    "naive_price_mae": 20645.0
+  },
+  "ALL": {
+    "n_test": 35,
+    "direction_accuracy": 0.4857142857142857,
+    "baseline_accuracy": 0.5428571428571428,
+    "price_mae": 15211.934124806723,
+    "naive_price_mae": 11799.366285714284
+  }
+}
